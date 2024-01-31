@@ -10,3 +10,7 @@ In this attack, Attacker access the WordPress domain by adding /wp-json/wp/v2/us
 
 Example: https://www.contoso.com/wp-json/wp/v2/users
 
+
+## Wordpress Change Admin Password
+
+copy file: "chg_wp_pwd.php" in root and navigate to file from the web
