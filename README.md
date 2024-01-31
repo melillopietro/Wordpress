@@ -13,4 +13,9 @@ Example: https://www.contoso.com/wp-json/wp/v2/users
 
 ## Wordpress Change Admin Password
 
-copy file: "chg_wp_pwd.php" in root and navigate to file from the web
+Using the chg_wp_pwd.php File:
+
+- copy the file to the root of your WordPress via FTP and rename the file to .php
+- retrieve the URL of the file in the format: http://urldelwordpress/chg_wp_pwd.php
+- enter the username of the user whose password you want to reset;
+- enter a new password;
